@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Edura.Repository", "Edura.R
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Edura.Entity", "Edura.Entity\Edura.Entity.csproj", "{66CBFA35-B185-44FE-8500-66D7EFF9076E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edura.WebApi", "Edura.WebApi\Edura.WebApi.csproj", "{45316D7D-B899-4C2D-8837-6D88BF2EAA6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Edura.WebApi", "Edura.WebApi\Edura.WebApi.csproj", "{45316D7D-B899-4C2D-8837-6D88BF2EAA6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
