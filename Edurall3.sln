@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Edura.Repository", "Edura.R
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Edura.Entity", "Edura.Entity\Edura.Entity.csproj", "{66CBFA35-B185-44FE-8500-66D7EFF9076E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edura.WebApi", "Edura.WebApi\Edura.WebApi.csproj", "{45316D7D-B899-4C2D-8837-6D88BF2EAA6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{66CBFA35-B185-44FE-8500-66D7EFF9076E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66CBFA35-B185-44FE-8500-66D7EFF9076E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66CBFA35-B185-44FE-8500-66D7EFF9076E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45316D7D-B899-4C2D-8837-6D88BF2EAA6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45316D7D-B899-4C2D-8837-6D88BF2EAA6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45316D7D-B899-4C2D-8837-6D88BF2EAA6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45316D7D-B899-4C2D-8837-6D88BF2EAA6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
