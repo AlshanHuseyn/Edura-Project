@@ -1,0 +1,24 @@
+C:\Users\talib\OneDrive\Desktop\Edura\Edura\Edura.Entity\bin\Debug\netcoreapp3.1\Edura.Entity.deps.json
+C:\Users\talib\OneDrive\Desktop\Edura\Edura\Edura.Entity\bin\Debug\netcoreapp3.1\Edura.Entity.dll
+C:\Users\talib\OneDrive\Desktop\Edura\Edura\Edura.Entity\bin\Debug\netcoreapp3.1\Edura.Entity.pdb
+C:\Users\talib\OneDrive\Desktop\Edura\Edura\Edura.Entity\obj\Debug\netcoreapp3.1\Edura.Entity.csprojAssemblyReference.cache
+C:\Users\talib\OneDrive\Desktop\Edura\Edura\Edura.Entity\obj\Debug\netcoreapp3.1\Edura.Entity.AssemblyInfoInputs.cache
+C:\Users\talib\OneDrive\Desktop\Edura\Edura\Edura.Entity\obj\Debug\netcoreapp3.1\Edura.Entity.AssemblyInfo.cs
+C:\Users\talib\OneDrive\Desktop\Edura\Edura\Edura.Entity\obj\Debug\netcoreapp3.1\Edura.Entity.dll
+C:\Users\talib\OneDrive\Desktop\Edura\Edura\Edura.Entity\obj\Debug\netcoreapp3.1\Edura.Entity.pdb
+C:\Users\talib\OneDrive\Desktop\Edura\Edura\Edura.Entity\bin\Debug\netcoreapp3.1\Edura.Entity.runtimeconfig.json
+C:\Users\talib\OneDrive\Desktop\Edura\Edura\Edura.Entity\bin\Debug\netcoreapp3.1\Edura.Entity.runtimeconfig.dev.json
+C:\Users\talib\OneDrive\Desktop\Edura\Edura\Edura.Entity\obj\Debug\netcoreapp3.1\Edura.Entity.genruntimeconfig.cache
+C:\Users\talib\OneDrive\Desktop\Edura\Edura\Edura.Entity\obj\Debug\netcoreapp3.1\Edura.Entity.csproj.CoreCompileInputs.cache
+C:\Users\talib\OneDrive\Desktop\Edura - Copy\Edura\Edura.Entity\bin\Debug\netcoreapp3.1\Edura.Entity.deps.json
+C:\Users\talib\OneDrive\Desktop\Edura - Copy\Edura\Edura.Entity\bin\Debug\netcoreapp3.1\Edura.Entity.runtimeconfig.json
+C:\Users\talib\OneDrive\Desktop\Edura - Copy\Edura\Edura.Entity\bin\Debug\netcoreapp3.1\Edura.Entity.runtimeconfig.dev.json
+C:\Users\talib\OneDrive\Desktop\Edura - Copy\Edura\Edura.Entity\bin\Debug\netcoreapp3.1\Edura.Entity.dll
+C:\Users\talib\OneDrive\Desktop\Edura - Copy\Edura\Edura.Entity\bin\Debug\netcoreapp3.1\Edura.Entity.pdb
+C:\Users\talib\OneDrive\Desktop\Edura - Copy\Edura\Edura.Entity\obj\Debug\netcoreapp3.1\Edura.Entity.csprojAssemblyReference.cache
+C:\Users\talib\OneDrive\Desktop\Edura - Copy\Edura\Edura.Entity\obj\Debug\netcoreapp3.1\Edura.Entity.csproj.CoreCompileInputs.cache
+C:\Users\talib\OneDrive\Desktop\Edura - Copy\Edura\Edura.Entity\obj\Debug\netcoreapp3.1\Edura.Entity.AssemblyInfoInputs.cache
+C:\Users\talib\OneDrive\Desktop\Edura - Copy\Edura\Edura.Entity\obj\Debug\netcoreapp3.1\Edura.Entity.AssemblyInfo.cs
+C:\Users\talib\OneDrive\Desktop\Edura - Copy\Edura\Edura.Entity\obj\Debug\netcoreapp3.1\Edura.Entity.dll
+C:\Users\talib\OneDrive\Desktop\Edura - Copy\Edura\Edura.Entity\obj\Debug\netcoreapp3.1\Edura.Entity.pdb
+C:\Users\talib\OneDrive\Desktop\Edura - Copy\Edura\Edura.Entity\obj\Debug\netcoreapp3.1\Edura.Entity.genruntimeconfig.cache

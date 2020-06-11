@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "font-awesome@5.13.0",
+      "destination": "wwwroot/font-awesome/"
+    },
+    {
+      "library": "feather-icons@4.28.0",
+      "destination": "wwwroot/feather-icons/"
+    }
+  ]
+}

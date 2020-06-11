@@ -1,0 +1,30 @@
+C:\Users\talib\OneDrive\Desktop\Edura\Edura\Edura.Repository\bin\Debug\netcoreapp3.1\Edura.Repository.deps.json
+C:\Users\talib\OneDrive\Desktop\Edura\Edura\Edura.Repository\bin\Debug\netcoreapp3.1\Edura.Repository.dll
+C:\Users\talib\OneDrive\Desktop\Edura\Edura\Edura.Repository\bin\Debug\netcoreapp3.1\Edura.Repository.pdb
+C:\Users\talib\OneDrive\Desktop\Edura\Edura\Edura.Repository\obj\Debug\netcoreapp3.1\Edura.Repository.AssemblyInfoInputs.cache
+C:\Users\talib\OneDrive\Desktop\Edura\Edura\Edura.Repository\obj\Debug\netcoreapp3.1\Edura.Repository.AssemblyInfo.cs
+C:\Users\talib\OneDrive\Desktop\Edura\Edura\Edura.Repository\obj\Debug\netcoreapp3.1\Edura.Repository.dll
+C:\Users\talib\OneDrive\Desktop\Edura\Edura\Edura.Repository\obj\Debug\netcoreapp3.1\Edura.Repository.pdb
+C:\Users\talib\OneDrive\Desktop\Edura\Edura\Edura.Repository\bin\Debug\netcoreapp3.1\Edura.Entity.dll
+C:\Users\talib\OneDrive\Desktop\Edura\Edura\Edura.Repository\bin\Debug\netcoreapp3.1\Edura.Entity.pdb
+C:\Users\talib\OneDrive\Desktop\Edura\Edura\Edura.Repository\obj\Debug\netcoreapp3.1\Edura.Repository.csprojAssemblyReference.cache
+C:\Users\talib\OneDrive\Desktop\Edura\Edura\Edura.Repository\obj\Debug\netcoreapp3.1\Edura.Repository.csproj.CopyComplete
+C:\Users\talib\OneDrive\Desktop\Edura\Edura\Edura.Repository\bin\Debug\netcoreapp3.1\Edura.Repository.runtimeconfig.json
+C:\Users\talib\OneDrive\Desktop\Edura\Edura\Edura.Repository\bin\Debug\netcoreapp3.1\Edura.Repository.runtimeconfig.dev.json
+C:\Users\talib\OneDrive\Desktop\Edura\Edura\Edura.Repository\obj\Debug\netcoreapp3.1\Edura.Repository.genruntimeconfig.cache
+C:\Users\talib\OneDrive\Desktop\Edura - Copy\Edura\Edura.Repository\bin\Debug\netcoreapp3.1\Edura.Repository.deps.json
+C:\Users\talib\OneDrive\Desktop\Edura - Copy\Edura\Edura.Repository\bin\Debug\netcoreapp3.1\Edura.Repository.runtimeconfig.json
+C:\Users\talib\OneDrive\Desktop\Edura - Copy\Edura\Edura.Repository\bin\Debug\netcoreapp3.1\Edura.Repository.runtimeconfig.dev.json
+C:\Users\talib\OneDrive\Desktop\Edura - Copy\Edura\Edura.Repository\bin\Debug\netcoreapp3.1\Edura.Repository.dll
+C:\Users\talib\OneDrive\Desktop\Edura - Copy\Edura\Edura.Repository\bin\Debug\netcoreapp3.1\Edura.Repository.pdb
+C:\Users\talib\OneDrive\Desktop\Edura - Copy\Edura\Edura.Repository\bin\Debug\netcoreapp3.1\Edura.Entity.dll
+C:\Users\talib\OneDrive\Desktop\Edura - Copy\Edura\Edura.Repository\bin\Debug\netcoreapp3.1\Edura.Entity.pdb
+C:\Users\talib\OneDrive\Desktop\Edura - Copy\Edura\Edura.Repository\obj\Debug\netcoreapp3.1\Edura.Repository.csprojAssemblyReference.cache
+C:\Users\talib\OneDrive\Desktop\Edura - Copy\Edura\Edura.Repository\obj\Debug\netcoreapp3.1\Edura.Repository.csproj.CoreCompileInputs.cache
+C:\Users\talib\OneDrive\Desktop\Edura - Copy\Edura\Edura.Repository\obj\Debug\netcoreapp3.1\Edura.Repository.AssemblyInfoInputs.cache
+C:\Users\talib\OneDrive\Desktop\Edura - Copy\Edura\Edura.Repository\obj\Debug\netcoreapp3.1\Edura.Repository.AssemblyInfo.cs
+C:\Users\talib\OneDrive\Desktop\Edura - Copy\Edura\Edura.Repository\obj\Debug\netcoreapp3.1\Edura.Repository.csproj.CopyComplete
+C:\Users\talib\OneDrive\Desktop\Edura - Copy\Edura\Edura.Repository\obj\Debug\netcoreapp3.1\Edura.Repository.dll
+C:\Users\talib\OneDrive\Desktop\Edura - Copy\Edura\Edura.Repository\obj\Debug\netcoreapp3.1\Edura.Repository.pdb
+C:\Users\talib\OneDrive\Desktop\Edura - Copy\Edura\Edura.Repository\obj\Debug\netcoreapp3.1\Edura.Repository.genruntimeconfig.cache
+C:\Users\talib\OneDrive\Desktop\Edura\Edura\Edura.Repository\obj\Debug\netcoreapp3.1\Edura.Repository.csproj.CoreCompileInputs.cache
